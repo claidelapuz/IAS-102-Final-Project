@@ -1,0 +1,17 @@
+{
+  "host": "127.0.0.1",
+  "scanned_at": "2026-04-28T12:33:38.695105",
+  "total_open_ports": 2,
+  "open_ports": [
+    {
+      "port": 135,
+      "state": "open",
+      "service": "Unknown"
+    },
+    {
+      "port": 445,
+      "state": "open",
+      "service": "Unknown"
+    }
+  ]
+}
